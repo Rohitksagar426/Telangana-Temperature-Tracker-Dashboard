@@ -1,0 +1,4 @@
+Power BI Desktop
+Microsoft Excel
+CSV Dataset (Telangana Weather Data)
+
